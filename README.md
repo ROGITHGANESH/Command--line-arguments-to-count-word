@@ -20,6 +20,7 @@ Sum the number of words in each line.
 Display the total words in the file.
 
 ## PROGRAM:
+```
 #Developed by: T.KAVINAJAI
 #Register no: 2122232100020
 import sys
@@ -30,6 +31,7 @@ for i in fp:
     wordcount+=len(words)
 print("Total no of words in file is",wordcount)
 fp.close()
+```
 ### OUTPUT:
 ![image](https://github.com/Kavin1311/Command--line-arguments-to-count-word/assets/145695724/8086f907-6dd9-4acb-a8ad-905a0f9cb8f2)
 
