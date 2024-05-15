@@ -21,8 +21,8 @@ Display the total words in the file.
 
 ## PROGRAM:
 ```
-#Developed by: T.KAVINAJAI
-#Register no: 2122232100020
+#Developed by ROGITH GANESH.R
+#Register no: 2122232100046
 import sys
 fp=open(sys.argv[1])
 wordcount=0
